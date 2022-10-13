@@ -5,7 +5,7 @@ Boas vindas ao repositório do projeto Studio Ghibli Api, uma aplicação em que
 O objetivo dessa aplicação é reuniar em um só lugar os filmes já produzidos pelo Studio Ghibli.
 
 ## Para acessar o link da aplicação e ver seu funcionamento, clique no link abaixo:
-[Studio Ghibli] https://studio-ghibli-api-ecru.vercel.app/
+[Studio Ghibli] https://studio-ghibli-api-vihvasc.vercel.app/
 
 Se preferir, pode instalar o projeto em sua máquina e rodá-lo localmente seguindo os passos abaixo:
 
