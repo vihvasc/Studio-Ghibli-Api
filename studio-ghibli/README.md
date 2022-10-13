@@ -2,7 +2,7 @@
 Boas vindas ao repositório do projeto Studio Ghibli Api, uma aplicação em que é possível fazer busca e encontrar seus filmes favoritos do famoso Studio Ghibli!
 ## Objetivos:
 
-O objetivo dessa aplicação é reuniar em um só lugar os filmes já produzidos pelo Studio Ghibli.
+O objetivo dessa aplicação é reunir em um só lugar os filmes já produzidos pelo Studio Ghibli.
 
 ## Para acessar o link da aplicação e ver seu funcionamento, clique no link abaixo:
 [Studio Ghibli] https://studio-ghibli-api-vihvasc.vercel.app/
