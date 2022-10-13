@@ -25,6 +25,8 @@ Agora sim estamos prontos para instalar o projeto.
 
 2. Em seguida, digite `cd studio-ghibli` para entrar no diretório (pasta) do projeto, que acabou de ser criada.
 
-3. Digite npm start e a aplicação abirrá em uma página da web na porta padrão  (ao abrir link será semelhante a esse: http://localhost:3000/).
+3. Utilize o comando `npm install` para instalar as dependências da aplicação, caso existam.
+
+4. Digite o comando `npm start` e a aplicação abrirá em uma página da web na porta padrão 3000 (ao abrir link será semelhante a esse: http://localhost:3000/).
 
 4. Prontinho! Dessa forma você acessará a aplicação de forma local :D
