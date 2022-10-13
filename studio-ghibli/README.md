@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Studio Ghibli Api
+Boas vindas ao repositório do projeto Studio Ghibli Api, uma aplicação em que é possível fazer busca e encontrar seus filmes favoritos do famoso Studio Ghibli!
+## Objetivos:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O objetivo dessa aplicação é reuniar em um só lugar os filmes já produzidos pelo Studio Ghibli.
 
-## Available Scripts
+## Para acessar o link da aplicação e ver seu funcionamento, clique no link abaixo:
+[Studio Ghibli] https://studio-ghibli-api-ecru.vercel.app/
 
-In the project directory, you can run:
+Se preferir, pode instalar o projeto em sua máquina e rodá-lo localmente seguindo os passos abaixo:
 
-### `npm start`
+## Como rodar a aplicação no computador:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Seu computador precisa de Git (para versionamento do código), Node.js & npm (para executar a aplicação). Clique nos links, caso ainda não tenha instalado algum desses:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ - [ ] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+ - [ ] [Node.js e npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-### `npm test`
+Agora sim estamos prontos para instalar o projeto.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Instalando a aplicação:
 
-### `npm run build`
+1. Primeiro, abra um novo terminal e clone o repositório utilizando o comando 
+`git clone git@github.com:vihvasc/Studio-Ghibli-Api.git`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Em seguida, digite `cd studio-ghibli` para entrar no diretório (pasta) do projeto, que acabou de ser criada.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Digite npm start e a aplicação abirrá em uma página da web na porta padrão  (ao abrir link será semelhante a esse: http://localhost:3000/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+4. Prontinho! Dessa forma você acessará a aplicação de forma local :D
